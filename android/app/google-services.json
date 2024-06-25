@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844103882707",
+    "project_id": "my-medicob-app",
+    "storage_bucket": "my-medicob-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844103882707:android:8fb52f9e71b6de2d558126",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxy7zpioQtmC2sASsM8VUyBTdG_M-FraM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
